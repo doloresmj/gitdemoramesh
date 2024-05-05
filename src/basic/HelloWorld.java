@@ -7,4 +7,8 @@ public class HelloWorld {
 
 	}
 
+	//b1 branch code
+	public void test() {
+		System.out.println("from test method");
+	}
 }
