@@ -9,7 +9,8 @@ public class HelloWorld {
 	}
 
 	//b1 branch code
-	public void test() {//code changes for stash demo from dev2 from ui
+
+	public void test() {//code changes for stash demo from dev2 from ui + //stash demo from d1
 		System.out.println("from test method");
 	}
 }
