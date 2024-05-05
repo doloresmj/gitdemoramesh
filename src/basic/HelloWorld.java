@@ -9,7 +9,7 @@ public class HelloWorld {
 	}
 
 	//b1 branch code
-	public void test() {
+	public void test() {//code changes for stash demo from dev2 from ui
 		System.out.println("from test method");
 	}
 }
